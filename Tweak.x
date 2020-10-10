@@ -65,6 +65,7 @@ NSAttributedString *attributedStringWithReplacement(NSAttributedString *origStri
 %ctor {
 	strings = @{
         @"Roaming danych": @"Rimming",
+        @"Data Roaming": @"Rimming",
         @"Roaming": @"Rimming",
         @"roaming": @"rimming",
 	};
