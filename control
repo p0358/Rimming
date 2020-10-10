@@ -1,0 +1,9 @@
+Package: net.p0358.prefsrimming
+Name: Rimming
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Turn roaming into rimming all across the Preferences
+Maintainer: p0358
+Author: p0358
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
