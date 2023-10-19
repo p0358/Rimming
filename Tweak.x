@@ -1,3 +1,6 @@
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
 static NSDictionary<NSString *, NSString *> *strings;
 
 // Replace strings
